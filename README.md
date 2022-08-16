@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Mauricio David</h1>
+<h1 align="center">Oi 👋, eu sou o Mauricio David</h1>
 <h3 align="center">Apaixonado por tecnologia e migrando para área de dados.</h3>
 
 - 🛠️ Atualmente eu estou trabalhando como Consultor de sistemas **na Intelipost**
