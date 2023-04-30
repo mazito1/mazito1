@@ -3,7 +3,7 @@
 
 - 🛠️ Atualmente eu estou trabalhando como System Support Analyst **na Intelipost**
 
-- 📚 Estudando sobre Devops/SRE em geral - **Linux, Docker, Kubernetes, CI/CD, IAC e AWS.**
+- 📚 Estudando sobre Engenharia de dados em geral - **Linux, Python, SQL, NoSQL, Big Data e Cloud.**
 
 - 📫 Você pode me contatar através do e-mail **maud.vieira9@outlook.com**
 
